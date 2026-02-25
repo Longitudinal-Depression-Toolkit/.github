@@ -26,4 +26,12 @@ If you are getting started, open an issue or discussion in one of the LDT Toolki
 >[!IMPORTANT]
 > LDT Toolkit is under active development. Interfaces will evolve quickly while we stabilise the ecosystem.
 
+# ❝Research Group
+
+LDT-Toolkit emerged from a ressearch internship at the Lifecourse Epidemiology and Psychiatry Research Group (LEAP) at
+the University of Edinburgh (UK); supervised by [Dr. Alex Kwong](https://edwebprofiles.ed.ac.uk/profile/dr-alex-kwong).
+
+See [LEAP's website](https://life-epi-psych.github.io) for more information about the group and their research.
+
+
 Cheers! 🥳
