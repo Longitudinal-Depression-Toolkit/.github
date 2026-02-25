@@ -4,22 +4,17 @@
 
 # ❝What is LDT Toolkit, in layman's terms?
 
-**LDT Toolkit** (Longitudinal Depression Toolkit) is an open toolkit for building longitudinal mental health workflows that combine data handling, analytics, and reproducible research utilities.
+**LDT Toolkit** (Longitudinal Depression Toolkit) is an open toolkit for building longitudinal mental health workflows that combine data handling, analytics, and reproducible research utilities. Basically, LDT Toolkit helps researchers and clinical teams organise depression-related data over time and turn it into Ml analyses, without rebuilding the same pipeline pieces from scratch.  An `LDT Toolkit` workflow can support structured analysis on repeated patient observations, reducing ad-hoc scripting and improving reproducibility.
 
-Basically, LDT Toolkit helps researchers and clinical teams organise depression-related data over time and turn it into Ml analyses, without rebuilding the same pipeline pieces from scratch.
-
-An `LDT Toolkit` workflow can support structured analysis on repeated patient observations, reducing ad-hoc scripting and improving reproducibility. BTW, share your reproducible scripts so that we build a catalogue / store of reproducible scripts for any given Longitudinal studies!
-
-Anyway, you should start at [ldt-toolkit](https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit); download the toolkit and the CLI and play with it!
+LDT-Toolkit is a `Python` based API toolset, and `Go` Command Line Interface for NO-CODE! You should start at [ldt-toolkit](https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit); download the toolkit and the CLI and play with it!
 # ❝Come Contribute to LDT Toolkit
 
-_Whatever your domain, your contribution is welcome._
-
-You can contribute in multiple ways:
+_Whatever your field, your contribution is welcome._ You can contribute in multiple ways:
 - add reusable modules and CLI commands
 - improve documentation and examples
 - contribute tests, benchmarks, and validation utilities
-- share study-specific reproducible scripts for longitudinal depression research
+- report bugs and suggest features
+- **And more importantly, share your study-specific reproducible scripts for longitudinal depression research**
 
 If you are getting started, open an issue or discussion in one of the LDT Toolkit repositories and we can help you pick a good first contribution.
 
