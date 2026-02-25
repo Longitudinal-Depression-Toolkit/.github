@@ -6,7 +6,7 @@
 
 **LDT Toolkit** (Longitudinal Depression Toolkit) is an open toolkit for building longitudinal mental health workflows that combine data handling, analytics, and reproducible research utilities. Basically, LDT Toolkit helps researchers and clinical teams organise depression-related data over time and turn it into Ml analyses, without rebuilding the same pipeline pieces from scratch.  An `LDT Toolkit` workflow can support structured analysis on repeated patient observations, reducing ad-hoc scripting and improving reproducibility.
 
-LDT-Toolkit is a `Python` based API toolset, and `Go` Command Line Interface for NO-CODE! You should start at [ldt-toolkit](https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit); download the toolkit and the CLI and play with it!
+LDT-Toolkit is a `Python` based API toolset, and `Go` Command Line Interface for NO-CODE! You should start at [ldt-toolkit](https://github.com/Longitudinal-Depression-Toolkit/ldt-toolkit); download the toolkit and the CLI; then finally play with it!
 # ❝Come Contribute to LDT Toolkit
 
 _Whatever your field, your contribution is welcome._ You can contribute in multiple ways:
